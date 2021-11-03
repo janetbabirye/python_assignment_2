@@ -1,2 +1,2 @@
-# python_assignment_2
+# open in visual studio code
 assignment
